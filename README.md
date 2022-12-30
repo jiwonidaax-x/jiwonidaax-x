@@ -1,4 +1,4 @@
-# 😉 CHOI JI WON 😉
+# 😉 JIWON CHOI 😉
 ![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwonidaax-x&show_icons=true&theme=radical)
 
 # :mailbox_with_mail: Contacts
