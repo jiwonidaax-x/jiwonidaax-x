@@ -1,6 +1,6 @@
 # 😉 JIWON CHOI 😉
 ![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwonidaax-x&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonidaax-x&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 # 💪Skills
 ### Platforms & Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
