@@ -1,4 +1,6 @@
 # 😉 CHOI JI WON 😉
+![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwonidaax-x&show_icons=true&theme=radical)
+
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://jiwonidaax-x.netlify.app/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:jgb07012@gmail.com)
