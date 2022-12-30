@@ -1,4 +1,4 @@
-# CHOI JI WON 😉
+# 😉 CHOI JI WON 😉
 
 <!--
 **jiwonidaax-x/jiwonidaax-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
