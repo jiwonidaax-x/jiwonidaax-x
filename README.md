@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=ffb4a2&height=300&section=header&text=😉%20JIWON%20CHOI%20😉&fontSize=90)
-# 😉 JIWON CHOI 😉
 ![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwonidaax-x&show_icons=true&theme=radical)
 
 # 💪Skills
