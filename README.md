@@ -12,6 +12,11 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?&style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jiwonidaax-x.netlify.app/)](https://jiwonidaax-x.netlify.app/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jgb07012@gmail.com)](mailto:jgb07012@gmail.com)
