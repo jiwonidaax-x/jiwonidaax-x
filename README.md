@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=wave)
 # 😉 JIWON CHOI 😉
 ![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwonidaax-x&show_icons=true&theme=radical)
 
